@@ -1,0 +1,26 @@
+{
+  "videos": [
+    {
+      "title": {
+        "artist": "John Prine",
+        "song": "I Remember Everything"
+      },
+      "duration": "3:32",
+      "rating": "98",
+      "date": "12-02-2020",
+      "thumbnail": "placeholder",
+      "views": "34234"
+    },
+    {
+      "title": {
+        "artist": "The National",
+        "song": "I Need My Girl"
+      },
+      "duration": "3:08",
+      "rating": "99",
+      "date": "2-12-21",
+      "thumbnail": "placeholder",
+      "views": "1222"
+    }
+  ]
+}
