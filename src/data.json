@@ -2,25 +2,228 @@
   "videos": [
     {
       "title": {
+        "artist": "Blackstreet",
+        "song": "No Diggity"
+      },
+      "duration": "3:34",
+      "rating": 95.3,
+      "views": 34592
+    },
+    {
+      "title": {
+        "artist": "Joe Exotic",
+        "song": "Here Kitty Kitty"
+      },
+      "duration": "2:08",
+      "rating": 97.8,
+      "views": 21472
+    },
+    {
+      "title": {
+        "artist": "Alanis Morissette",
+        "song": "Hand in My Pocket"
+      },
+      "duration": "4:22",
+      "rating": 82.2,
+      "views": 12793
+    },
+    {
+      "title": {
+        "artist": "Post Malone",
+        "song": "Feeling Whitney"
+      },
+      "duration": "4:07",
+      "rating": 88.9,
+      "views": 8958
+    },
+    {
+      "title": {
+        "artist": "Looking Glass",
+        "song": "Brandy"
+      },
+      "duration": "3:30",
+      "rating": 88.1,
+      "views": 6607
+    },
+    {
+      "title": {
+        "artist": "Guster",
+        "song": "Satellite"
+      },
+      "duration": "3:22",
+      "rating": 92.6,
+      "views": 5568
+    },
+    {
+      "title": {
+        "artist": "Phoebe Bridgers",
+        "song": "Scott Street"
+      },
+      "duration": "4:00",
+      "rating": 85.2,
+      "views": 4072
+    },
+    {
+      "title": {
+        "artist": "The Weakerthans",
+        "song": "My Favorite Chords"
+      },
+      "duration": "4:36",
+      "rating": 97.4,
+      "views": 3018
+    },
+    {
+      "title": {
+        "artist": "Brooks and Dunn",
+        "song": "Neon Moon"
+      },
+      "duration": "4:01",
+      "rating": 96.6,
+      "views": 2695
+    },
+    {
+      "title": {
+        "artist": "Lorde",
+        "song": "Liability"
+      },
+      "duration": "3:39",
+      "rating": 94.7,
+      "views": 2475
+    },
+    {
+      "title": {
+        "artist": "Leonard Cohen",
+        "song": "Hallelujah"
+      },
+      "duration": "5:41",
+      "rating": 100,
+      "views": 1796
+    },
+    {
+      "title": {
+        "artist": "Tina Turner",
+        "song": "Simply the Best"
+      },
+      "duration": "1:00",
+      "rating": 95.8,
+      "views": 1727
+    },
+    {
+      "title": {
+        "artist": "Jason Isbell",
+        "song": "Maybe It's Time"
+      },
+      "duration": "3:40",
+      "rating": 100,
+      "views": 1722
+    },
+    {
+      "title": {
+        "artist": "Jason Isbell",
+        "song": "The Last of My Kind"
+      },
+      "duration": "3:36",
+      "rating": 98.4,
+      "views": 1571
+    },
+    {
+      "title": {
+        "artist": "John Prine",
+        "song": "That's the Way the World Goes 'round"
+      },
+      "duration": "2:42",
+      "rating": 100,
+      "views": 1556
+    },
+    {
+      "title": {
         "artist": "John Prine",
         "song": "I Remember Everything"
       },
-      "duration": "3:32",
-      "rating": "98",
-      "date": "12-02-2020",
-      "thumbnail": "placeholder",
-      "views": "34234"
+      "duration": "2:53",
+      "rating": 100,
+      "views": 1183
+    },
+    {
+      "title": {
+        "artist": "Billie Eilish",
+        "song": "Your Power"
+      },
+      "duration": "3:28",
+      "rating": 100,
+      "views": 1111
     },
     {
       "title": {
         "artist": "The National",
         "song": "I Need My Girl"
       },
-      "duration": "3:08",
-      "rating": "99",
-      "date": "2-12-21",
-      "thumbnail": "placeholder",
-      "views": "1222"
+      "duration": "5:43",
+      "rating": 100,
+      "views": 1074
+    },
+    {
+      "title": {
+        "artist": "Olivia Rodrigo",
+        "song": "Drivers License"
+      },
+      "duration": "4:30",
+      "rating": 100,
+      "views": 1024
+    },
+    {
+      "title": {
+        "artist": "Dua Lipa",
+        "song": "Levitating"
+      },
+      "duration": ":59",
+      "rating": 73.3,
+      "views": 902
+    },
+    {
+      "title": {
+        "artist": "The Avett Brothers",
+        "song": "If It's the Beaches"
+      },
+      "duration": "2:41",
+      "rating": 100,
+      "views": 901
+    },
+    {
+      "title": {
+        "artist": "George Strait",
+        "song": "I Can Still Make Cheyenne"
+      },
+      "duration": "4:49",
+      "rating": 100,
+      "views": 896
+    },
+    {
+      "title": {
+        "artist": "Zac Brown",
+        "song": "Colder Weather"
+      },
+      "duration": "3:38",
+      "rating": 100,
+      "views": 861
+    },
+    {
+      "title": {
+        "artist": "James Taylor",
+        "song": "Fire and Rain"
+      },
+      "duration": "3:45",
+      "rating": 100,
+      "views": 837
+    },
+    {
+      "title": {
+        "artist": "Tracy Chapman",
+        "song": "Fast Car"
+      },
+      "duration": "5:49",
+      "rating": 97.3,
+      "views": 767
     }
   ]
 }
