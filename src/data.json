@@ -1,226 +1,176 @@
 {
   "videos": [
     {
-      "title": {
-        "artist": "Blackstreet",
-        "song": "No Diggity"
-      },
+      "title": "No Diggity",
+      "artist": "Blackstreet",
       "duration": "3:34",
       "rating": 95.3,
       "views": 34592
     },
     {
-      "title": {
-        "artist": "Joe Exotic",
-        "song": "Here Kitty Kitty"
-      },
+      "title": "Here Kitty Kitty",
+      "artist": "Joe Exotic",
       "duration": "2:08",
       "rating": 97.8,
       "views": 21472
     },
     {
-      "title": {
-        "artist": "Alanis Morissette",
-        "song": "Hand in My Pocket"
-      },
+      "title": "Hand in My Pocket",
+      "artist": "Alanis Morissette",
       "duration": "4:22",
       "rating": 82.2,
       "views": 12793
     },
     {
-      "title": {
-        "artist": "Post Malone",
-        "song": "Feeling Whitney"
-      },
+      "title": "Feeling Whitney",
+      "artist": "Post Malone",
       "duration": "4:07",
       "rating": 88.9,
       "views": 8958
     },
     {
-      "title": {
-        "artist": "Looking Glass",
-        "song": "Brandy"
-      },
+      "title": "Brandy",
+      "artist": "Looking Glass",
       "duration": "3:30",
       "rating": 88.1,
       "views": 6607
     },
     {
-      "title": {
-        "artist": "Guster",
-        "song": "Satellite"
-      },
+      "title": "Satellite",
+      "artist": "Guster",
       "duration": "3:22",
       "rating": 92.6,
       "views": 5568
     },
     {
-      "title": {
-        "artist": "Phoebe Bridgers",
-        "song": "Scott Street"
-      },
+      "title": "Scott Street",
+      "artist": "Phoebe Bridgers",
       "duration": "4:00",
       "rating": 85.2,
       "views": 4072
     },
     {
-      "title": {
-        "artist": "The Weakerthans",
-        "song": "My Favorite Chords"
-      },
+      "title": "My Favorite Chords",
+      "artist": "The Weakerthans",
       "duration": "4:36",
       "rating": 97.4,
       "views": 3018
     },
     {
-      "title": {
-        "artist": "Brooks and Dunn",
-        "song": "Neon Moon"
-      },
+      "title": "Neon Moon",
+      "artist": "Brooks and Dunn",
       "duration": "4:01",
       "rating": 96.6,
       "views": 2695
     },
     {
-      "title": {
-        "artist": "Lorde",
-        "song": "Liability"
-      },
+      "title": "Liability",
+      "artist": "Lorde",
       "duration": "3:39",
       "rating": 94.7,
       "views": 2475
     },
     {
-      "title": {
-        "artist": "Leonard Cohen",
-        "song": "Hallelujah"
-      },
+      "title": "Hallelujah",
+      "artist": "Leonard Cohen",
       "duration": "5:41",
       "rating": 100,
       "views": 1796
     },
     {
-      "title": {
-        "artist": "Tina Turner",
-        "song": "Simply the Best"
-      },
+      "title": "Simply the Best",
+      "artist": "Tina Turner",
       "duration": "1:00",
       "rating": 95.8,
       "views": 1727
     },
     {
-      "title": {
-        "artist": "Jason Isbell",
-        "song": "Maybe It's Time"
-      },
+      "title": "Maybe It's Time",
+      "artist": "Jason Isbell",
       "duration": "3:40",
       "rating": 100,
       "views": 1722
     },
     {
-      "title": {
-        "artist": "Jason Isbell",
-        "song": "The Last of My Kind"
-      },
+      "title": "The Last of My Kind",
+      "artist": "Jason Isbell",
       "duration": "3:36",
       "rating": 98.4,
       "views": 1571
     },
     {
-      "title": {
-        "artist": "John Prine",
-        "song": "That's the Way the World Goes 'round"
-      },
+      "title": "That's the Way the World Goes 'round",
+      "artist": "John Prine",
       "duration": "2:42",
       "rating": 100,
       "views": 1556
     },
     {
-      "title": {
-        "artist": "John Prine",
-        "song": "I Remember Everything"
-      },
+      "title": "I Remember Everything",
+      "artist": "John Prine",
       "duration": "2:53",
       "rating": 100,
       "views": 1183
     },
     {
-      "title": {
-        "artist": "Billie Eilish",
-        "song": "Your Power"
-      },
+      "title": "Your Power",
+      "artist": "Billie Eilish",
       "duration": "3:28",
       "rating": 100,
       "views": 1111
     },
     {
-      "title": {
-        "artist": "The National",
-        "song": "I Need My Girl"
-      },
+      "title": "I Need My Girl",
+      "artist": "The National",
       "duration": "5:43",
       "rating": 100,
       "views": 1074
     },
     {
-      "title": {
-        "artist": "Olivia Rodrigo",
-        "song": "Drivers License"
-      },
+      "title": "Drivers License",
+      "artist": "Olivia Rodrigo",
       "duration": "4:30",
       "rating": 100,
       "views": 1024
     },
     {
-      "title": {
-        "artist": "Dua Lipa",
-        "song": "Levitating"
-      },
+      "title": "Levitating",
+      "artist": "Dua Lipa",
       "duration": ":59",
       "rating": 73.3,
       "views": 902
     },
     {
-      "title": {
-        "artist": "The Avett Brothers",
-        "song": "If It's the Beaches"
-      },
+      "title": "If It's the Beaches",
+      "artist": "The Avett Brothers",
       "duration": "2:41",
       "rating": 100,
       "views": 901
     },
     {
-      "title": {
-        "artist": "George Strait",
-        "song": "I Can Still Make Cheyenne"
-      },
+      "title": "I Can Still Make Cheyenne",
+      "artist": "George Strait",
       "duration": "4:49",
       "rating": 100,
       "views": 896
     },
     {
-      "title": {
-        "artist": "Zac Brown",
-        "song": "Colder Weather"
-      },
+      "title": "Colder Weather",
+      "artist": "Zac Brown",
       "duration": "3:38",
       "rating": 100,
       "views": 861
     },
     {
-      "title": {
-        "artist": "James Taylor",
-        "song": "Fire and Rain"
-      },
+      "title": "Fire and Rain",
+      "artist": "James Taylor",
       "duration": "3:45",
       "rating": 100,
       "views": 837
     },
     {
-      "title": {
-        "artist": "Tracy Chapman",
-        "song": "Fast Car"
-      },
+      "title": "Fast Car",
+      "artist": "Tracy Chapman",
       "duration": "5:49",
       "rating": 97.3,
       "views": 767

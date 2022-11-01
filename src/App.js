@@ -1,11 +1,12 @@
 import './App.css'
-import data from './data.json'
+import videos from './data.json'
+import Video from './components/Video'
 
 const App = () => {
-  console.log(data)
   return (
     <div>
-      <h1>Final Project</h1>
+      <h1>YouTube Videos</h1>
+      <Video videos={videos} />
     </div>
   )
 }
