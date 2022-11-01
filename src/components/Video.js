@@ -15,27 +15,5 @@ const Video = (props) => {
     </div>
   )
 }
-export default Video
 
-// return (
-//   <div>
-//     <ul>
-//       {props.movies.map((movie) => (
-//         <li key={movie.title}>
-//           <img src={movie.poster_path} width="300" />
-//           <h2>{movie.title}</h2>
-//           <h6>Release Date: {movie.release_date}</h6>
-//           <h5>Overview: {movie.overview}</h5>
-//             {movie.genres.map((genre, index) => {
-//               return (
-//                 <div key={index}>
-//                   <h5 style={{color:`${changeColor(genre.name)}`}}>Genre: {genre.name}</h5>
-//                 </div>
-//               );
-//             })}
-//         </li>
-//       ))}
-//     </ul>
-//   </div>
-// )
-// }
+export default Video
