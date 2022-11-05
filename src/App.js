@@ -5,7 +5,7 @@ import VideoList from './components/VideoList'
 const App = () => {
   return (
     <div>
-      <h1>YouTube Videos</h1>
+      <h1 className="mainTitle">YouTube Videos</h1>
       <VideoList videos={data.videos} />
     </div>
   )
