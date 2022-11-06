@@ -3,3 +3,19 @@ body {
   background-color: black;
   color: white;
 }
+
+.mainTitle {
+  color: blue;
+}
+
+.videosContainer {
+  width: 100px;
+  height: 100px;
+  background-color: #254DE4;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start; 
+
+}
