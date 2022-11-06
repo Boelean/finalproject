@@ -1,21 +1,24 @@
 body {
   margin: 0;
-  background-color: black;
+  background-color: darkolivegreen;
   color: white;
 }
 
 .mainTitle {
-  color: blue;
+  color: white;
 }
 
-.videosContainer {
-  width: 100px;
-  height: 100px;
-  background-color: #254DE4;
+.videoContainers {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: flex-start; 
+  justify-content: start;
+}
 
+.videoBox {
+  background-color: black;
+  width: 33%;  
+}
+.thumbnail {
+  width: 33%;
 }

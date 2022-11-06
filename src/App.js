@@ -4,9 +4,11 @@ import VideoList from './components/VideoList'
 
 const App = () => {
   return (
-    <div className="videosContainer">
+    <div>
       <h1 className="mainTitle">YouTube Videos</h1>
-      <VideoList videos={data.videos} />
+      <div className="videoContainers">
+        <VideoList videos={data.videos} />
+      </div>
     </div>
   )
 }
