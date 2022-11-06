@@ -19,7 +19,15 @@ body {
   background-color: black;
   min-width: 300px;  
   max-width: 300px;
+  margin: 5px;
 }
 .thumbnail {
-  width: 100px;
+  min-width: 300px;  
+  max-width: 300px;
+}
+
+h3 {
+ font-family: Arial, Helvetica, sans-serif;
+  color: white;
+
 }
