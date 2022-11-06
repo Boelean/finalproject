@@ -17,8 +17,9 @@ body {
 
 .videoBox {
   background-color: black;
-  width: 33%;  
+  min-width: 300px;  
+  max-width: 300px;
 }
 .thumbnail {
-  width: 33%;
+  width: 100px;
 }

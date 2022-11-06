@@ -2,13 +2,13 @@ import Video from './Video'
 
 const VideoList = (props) => {
   return (
-    <div>
-      <ul>
-        {props.videos.map((video) => (
+    <>
+      {props.videos.map((video) => (
+        <div className="videoBox">
           <Video video={video} key={video.title} />
-        ))}
-      </ul>
-    </div>
+        </div>
+      ))}
+    </>
   )
 }
 
