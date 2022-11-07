@@ -1,11 +1,12 @@
 body {
-  margin: 0;
-  background-color: darkolivegreen;
+  margin: 5;
+  background-color: black;
   color: white;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .mainTitle {
-  color: white;
+  color: #DC5F00;
 }
 
 .videoContainers {
@@ -20,14 +21,31 @@ body {
   min-width: 300px;  
   max-width: 300px;
   margin: 5px;
+  border-style: ridge;
+  border-color: #3C4048;
 }
 .thumbnail {
   min-width: 300px;  
   max-width: 300px;
+  margin: 0;
 }
 
 h3 {
  font-family: Arial, Helvetica, sans-serif;
   color: white;
 
+}
+.videoTitle {
+  margin: 5px;
+  color: #00ABB3;
+
+}
+
+.durationValue {
+  margin: 5px;
+  color: #00ABB3;
+}
+
+.ratingValue {
+  color: #00ABB3;
 }
