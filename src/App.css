@@ -37,11 +37,6 @@ body {
   margin: 0;
 }
 
-h3 {
- font-family: Arial, Helvetica, sans-serif;
-  color: #EAEAEA;
-
-}
 .videoTitle {
   margin: 5px;
   color: #EAEAEA;
@@ -57,4 +52,9 @@ h3 {
   color: lightgreen;
   text-align: center;
   font-weight: 600;
+}
+.header {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 800;
+  font-size: xx-large;
 }
