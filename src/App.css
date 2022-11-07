@@ -5,6 +5,13 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #3C4048;
+  color: #B2B2B2;
+  font-size: 30px;
+}
 .mainTitle {
   color: #DC5F00;
 }
@@ -32,20 +39,20 @@ body {
 
 h3 {
  font-family: Arial, Helvetica, sans-serif;
-  color: white;
+  color: #EAEAEA;
 
 }
 .videoTitle {
   margin: 5px;
-  color: #00ABB3;
+  color: #EAEAEA;
 
 }
 
 .durationValue {
   margin: 5px;
-  color: #00ABB3;
+  color: #EAEAEA;
 }
 
 .ratingValue {
-  color: #00ABB3;
+  color: #EAEAEA;
 }
