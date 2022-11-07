@@ -54,5 +54,7 @@ h3 {
 }
 
 .ratingValue {
-  color: #EAEAEA;
+  color: lightgreen;
+  text-align: center;
+  font-weight: 600;
 }
